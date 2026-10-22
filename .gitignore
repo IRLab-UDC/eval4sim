@@ -1,0 +1,10 @@
+secrets
+data/
+results/
+experiments/
+logs/
+venv/
+.claude/
+__pycache__/
+*.pyc
+*.pyo
